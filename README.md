@@ -84,7 +84,6 @@ AI-powered school attendance
 
 ## 📈 GitHub Stats
 ![Zico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zico-hubb&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zico-hubb&layout=compact&theme=radical)
 
 
 

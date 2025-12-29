@@ -92,5 +92,8 @@ AI-powered school attendance
 
 
 
+
+
+
 ## 👁️ Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/zico-hubb/count.svg)

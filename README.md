@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Zico! 👋</h1>
+  <h1>Hi there, I'm Zico! </h1>
   
   <h3>Full-stack & Web3 Developer | Data Science & AI Enthusiast</h3>
   
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Projects Showcase
+##  Projects Showcase
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Skills & Tech
+##  Skills & Tech
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -43,7 +43,7 @@
 
 ---
 
-## 📊 Skill Progress
+##  Skill Progress
 
 | Tech Stack | Competency |
 | :--- | :--- |

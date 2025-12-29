@@ -1,99 +1,65 @@
-# Hi there , I'm Zico!
+<div align="center">
+  <h1>Hi there, I'm Zico! 👋</h1>
+  
+  <h3>Full-stack & Web3 Developer | Data Science & AI Enthusiast</h3>
+  
+  <p>
+    Building decentralized & intelligent solutions • Lifelong Learner • Open-source Contributor
+  </p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/MosesZico/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Zico-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/plam" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-@plam-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
+    </a>
+  </p>
+</div>
 
-**Full-stack & Web3 Developer** | Rust | Solidity | Next.js | Python
-**Data Science & AI Enthusiast** | Building decentralized & intelligent solutions
-Lifelong Learner | Open-source Contributor
+---
 
+## 🚀 Projects Showcase
 
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **Quantitative Risk Dashboard** | Real-time financial intelligence engine (VaR, Monte Carlo, Beta) using Python & Yahoo Finance API. | [![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github)](https://github.com/zico-hubb/financial-risk-dashboard) <br> [![Live](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://financial-risk-analysis.streamlit.app/) |
+| **Enterprise Financial Analytics** | Modular valuation & forecasting system (NPV, Markowitz Optimization, Linear Regression) for Excel data. | [![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github)](https://github.com/zico-hubb/financial-analytics-platform) <br> [![Live](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://financial-analytics-platform.streamlit.app/) |
+| **ipShield** | Intellectual Property management on Solana blockchain. | [![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github)](https://github.com/zico-hubb/ipShield) <br> [![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://ipshield-demo-link.com) |
+| **ArdhiChain** | NFT-based Land Registry System on Blockchain. | [![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github)](https://github.com/zico-hubb/ArdhiChain) <br> [![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://ardhichain-demo-link.com) |
+| **Facial Recognition System** | AI-powered school attendance system using OpenCV. | [![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github)](https://github.com/zico-hubb/facial-attendance) |
 
-## Projects Showcase
+---
 
-### [Quantitative Risk Dashboard](https://github.com/zico-hubb/financial-risk-dashboard)
-Real-time financial intelligence engine (VaR, Monte Carlo, Beta) using Python & Yahoo Finance API
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/zico-hubb/financial-risk-dashboard)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=black)](https://financial-risk-analysis.streamlit.app/)
+## 🛠️ Skills & Tech
 
-### [Enterprise Financial Analytics Platform](https://github.com/zico-hubb/financial-analytics-platform)
-Modular valuation & forecasting system (NPV, Markowitz Optimization, Linear Regression) for Excel data analysis
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/zico-hubb/financial-analytics-platform)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=black)](https://financial-analytics-platform.streamlit.app/)
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=ethereum&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Web Dev** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| **Web3** | ![Solana](https://img.shields.io/badge/-Solana-00FFA3?style=flat&logo=solana&logoColor=white) ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white) ![Anchor](https://img.shields.io/badge/-Anchor-000000?style=flat) |
+| **Cloud/DB** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
 
-### [ipShield](https://github.com/zico-hubb/ipShield)
-Intellectual Property management on Solana blockchain
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/zico-hubb/ipShield)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel&labelColor=008000)](https://ipshield-demo-link.com)
+---
 
-### [ArdhiChain](https://github.com/zico-hubb/ArdhiChain)
-NFT-based Land Registry System
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/zico-hubb/ArdhiChain)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel&labelColor=008000)](https://ardhichain-demo-link.com)
+## 📊 Skill Progress
 
-### Facial Recognition Attendance System
-AI-powered school attendance
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/zico-hubb/facial-attendance)
+| Tech Stack | Competency |
+| :--- | :--- |
+| **Python** | ![90%](https://geps.dev/progress/90?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB) |
+| **React / Next.js** | ![90%](https://geps.dev/progress/90?dangerColor=61DAFB&warningColor=61DAFB&successColor=61DAFB) |
+| **Solidity / Web3** | ![85%](https://geps.dev/progress/85?dangerColor=363636&warningColor=363636&successColor=363636) |
+| **Data Science** | ![85%](https://geps.dev/progress/85?dangerColor=F7931E&warningColor=F7931E&successColor=F7931E) |
+| **Rust** | ![80%](https://geps.dev/progress/80?dangerColor=000000&warningColor=000000&successColor=000000) |
 
+<br />
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zico-hubb&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zico-hubb&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
 
-## Skills & Tech
-
-**Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=ethereum&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-
-**Data Science & AI**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Geopandas](https://img.shields.io/badge/GeoPandas-2C3E50?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Blockchain & Web3**
-![Solana](https://img.shields.io/badge/Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=white)
-![NFTs](https://img.shields.io/badge/NFTs-8A2BE2?style=for-the-badge)
-![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3dotjs)
-![Anchor](https://img.shields.io/badge/Anchor-000000?style=for-the-badge)
-
-**Databases & Cloud**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FC3C2F?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-
-
-## Skill Progress
-
-**Python** ![Python](https://img.shields.io/badge/Python-90%25-green?style=for-the-badge)
-**Web3 & Solidity** ![Solidity](https://img.shields.io/badge/Solidity-85%25-blue?style=for-the-badge)
-**Rust** ![Rust](https://img.shields.io/badge/Rust-80%25-orange?style=for-the-badge)
-**Next.js & React** ![React](https://img.shields.io/badge/React-90%25-purple?style=for-the-badge)
-**Data Science & ML** ![Data Science](https://img.shields.io/badge/DataScience-85%25-red?style=for-the-badge)
-
-
-
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zico-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/MosesZico/)
-[![Twitter](https://img.shields.io/badge/Twitter-@plam-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/plam)
-
-
-
-## 📈 GitHub Stats
-![Zico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zico-hubb&show_icons=true&theme=radical)
-
-
-
-## 👁️ Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/zico-hubb/count.svg)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/zico-hubb/count.svg" alt="visitor count" />
+</div>
